@@ -8,7 +8,7 @@ I'm a passionate and versatile **Software Engineer** with hands-on experience in
 
 ### 💻 Software & Web Development
 - **Programming Languages:** C++, C#, Java, Python
-- **Frontend:** HTML, CSS (Tailwind CSS), JavaScript, TypeScript, React (including Next.js)
+- **Frontend:** HTML, CSS (Tailwind CSS), JavaScript, TypeScript, Angular, React (including Next.js)
 - **Backend:** PHP (Laravel), Node.js, Express.js, Spring Boot, ASP.NET, Django
 - **Web Design Tools:** Figma (UI/UX)
 
