@@ -8,28 +8,25 @@ I'm a passionate and versatile **Software Engineer** with progressive experience
 
 ### 💻 Software & Web Development
 - **Programming Languages:** C++, C#, Java, Python
-- **Frontend:** HTML, CSS (Tailwind CSS), JavaScript, TypeScript, Angular, React (including Next.js)
-- **Backend:** PHP (Laravel), Node.js, Express.js, Spring Boot, ASP.NET, Django
-- **Web Design Tools:** Figma (UI/UX)
+- **Frontend:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Next.js, AngularJS, Tailwind CSS
+- **Backend:** PHP (Laravel), NodeJS, ExpressJS, Spring Boot, ASP.NET, Django
 
 ### 📱 Mobile Application Development
-- Kotlin, React Native, Flutter
+- **Technologies:** Kotlin, React Native, Flutter
 
 ### 🗄️ Databases
-- MySQL, PostgreSQL, MongoDB
+- **RDBMS & NoSQL:** MySQL, PostgreSQL, MongoDB
 
 ### ☁️ Cloud & DevOps
-- **AWS:** S3, Amplify, Lambda, EC2, and more
+- **AWS Services:** S3, Amplify, Lambda, EC2, and more
 - **CI/CD:** GitHub Actions
 
-### 🔧 Version Control
-- Git & GitHub
-
-### 🧩 Project Management
-- Agile Methodologies — Scrum
-
-### 🌐 CMS
-- WordPress, Sanity IO
+### 🔧 Tools & Practices
+- **Version Control:** Git, GitHub
+- **Project Management:** Agile (Scrum)
+- **CMS:** WordPress, Sanity IO
+- **Web Design:** Figma (UI/UX)
 
 ---
 
