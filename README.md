@@ -9,8 +9,8 @@ I'm a passionate and versatile **Software Engineer** with progressive experience
 ### 💻 Software & Web Development
 - **Programming Languages:** C++, C#, Java, Python
 - **Frontend:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Next.js, AngularJS, Tailwind CSS
-- **Backend:** PHP (Laravel), NodeJS, ExpressJS, Spring Boot, ASP.NET, Django
+- **Frameworks & Libraries:** React, Next.js, AngularJS, Tailwind CSS, Laravel
+- **Backend:** PHP, NodeJS, ExpressJS, Spring Boot, ASP.NET, ASP.Net Core. FastApi, Django
 
 ### 📱 Mobile Application Development
 - **Technologies:** Kotlin, React Native, Flutter
