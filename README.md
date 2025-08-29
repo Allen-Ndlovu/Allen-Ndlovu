@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I'm a passionate and versatile **Software Engineer** with progressive experience in building full-stack applications across web and mobile platforms. I enjoy turning complex problems into clean, efficient, and scalable solutions. I am also highly adaptable and continuously exploring new technologies to expand my skillset.
+I'm a versatile **software engineer** with progressive experience in building full-stack applications across web and mobile platforms. I enjoy turning complex problems into clean, efficient, and scalable solutions. I am also highly adaptable and continuously exploring new technologies to expand my skillset.
 
 ---
 
